@@ -1,6 +1,6 @@
 {
   "host": "0.0.0.0",
-  "port": 5000,
+  "port": 5006,
   "mongo_host": "localhost",
   "mongo_port": 27017,
   "mongo_db_name": "ab_amazon"
